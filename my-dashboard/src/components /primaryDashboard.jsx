@@ -15,26 +15,14 @@ const Dashboard = () => {
 
 
   const mockTransactions = [
-    { dt: { cost: 10, name: 'Alice', date: '2023-01-01' } },
-    { dt: { cost: 20, name: 'Bob', date: '2023-01-05' } },
-    { dt: { cost: 15, name: 'Charlie', date: '2023-01-10' } },
-    { dt: { cost: 5, name: 'Diana', date: '2023-01-15' } },
-    { dt: { cost: 12, name: 'Eve', date: '2023-01-18' } },
-    { dt: { cost: 8, name: 'Frank', date: '2023-01-22' } },
-    { dt: { cost: 25, name: 'Grace', date: '2023-01-28' } },
-    { dt: { cost: 30, name: 'Hannah', date: '2023-02-01' } },
-    { dt: { cost: 7, name: 'Isaac', date: '2023-02-05' } },
-    { dt: { cost: 22, name: 'Jack', date: '2023-02-10' } },
-    { dt: { cost: 10, name: 'Alice', date: '2023-01-01' } },
-    { dt: { cost: 20, name: 'Bob', date: '2023-01-05' } },
-    { dt: { cost: 15, name: 'Charlie', date: '2023-01-10' } },
-    { dt: { cost: 5, name: 'Diana', date: '2023-01-15' } },
-    { dt: { cost: 12, name: 'Eve', date: '2023-01-18' } },
-    { dt: { cost: 8, name: 'Frank', date: '2023-01-22' } },
-    { dt: { cost: 25, name: 'Grace', date: '2023-01-28' } },
-    { dt: { cost: 30, name: 'Hannah', date: '2023-02-01' } },
-    { dt: { cost: 7, name: 'Isaac', date: '2023-02-05' } },
-    { dt: { cost: 22, name: 'Jack', date: '2023-02-10' } }
+    { dt: { cost: 43.95, name: 'johndoe', date: '2021-09-01' } },
+    { dt: { cost: 133.45, name: 'jackdower', date: '2023-01-05' } },
+    { dt: { cost: 43.95, name: 'Charlie', date: '2023-01-10' } },
+    { dt: { cost: 200.95, name: 'Diana', date: '2023-01-15' } },
+    { dt: { cost: 13.55, name: 'Eve', date: '2023-01-18' } },
+    { dt: { cost: 43.95, name: 'Frank', date: '2023-01-22' } },
+    { dt: { cost: 24.20, name: 'Grace', date: '2023-01-28' } },
+    { dt: { cost: 133.45, name: 'Hannah', date: '2023-02-01' } },
   ];
 
   
